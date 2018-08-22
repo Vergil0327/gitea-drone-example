@@ -1,2 +1,4 @@
-test/*/*.js
-.env
+test
+gitea
+drone.sqlite
+# .env
